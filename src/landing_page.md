@@ -8,13 +8,18 @@ Notre domaine d'intervention:
 Notre approche :
 
 - analyse de l'ensemble du système (code, pratiques, process, relations)
-- mise en place d'amélioration continue
+- apprentissage et amélioration continue (focus, observation, debrief, entraînement)
 - parler aux utilisateurs
 - ralentir et expliciter les choix et les décisions à tous les acteurs
 - différer les décisions jusqu'à ce qu'on comprenne suffisamment le problème
+- travailler en équipe : rétablir les conditions pour pouvoir travailler en réelle transparence sur l'ensemble des motivations qui impactent le projet (objectifs, goûts, carrière, craintes) pour permettre un alignement d'équipe
+- apprendre à décider efficacement en équipe
 
 
-On ne vend pas un profil. On intervient sur un volumes d'heures, en fonction de la situation.
+Comment on fait :
+
+- On ne vend pas un profil. On intervient sur un volumes d'heures, en fonction de la situation.
+- L'apprentissage fait partie intégrante de l'activité (pas de séparation apprendre/produire)
 
 
 ## Situations
