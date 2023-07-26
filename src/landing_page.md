@@ -1,5 +1,7 @@
 # Landing page
 
+*un exemple de mission : on arrive chez vous, qu'est-ce que l'on fait ?*
+
 Notre domaine d'intervention:
 
 - projets complexes existants qui atteignent une limite de viabilité (quand le projet devient irrespirable)
