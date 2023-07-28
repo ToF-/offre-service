@@ -1,7 +1,7 @@
 
 # Situations types
 
-- son équipe ne livre pas
+- votre équipe ne livre pas
 - le système plante en démo
 - le système plante en production
 - le système subit une attaque
@@ -15,9 +15,9 @@
 - l'état de l'art de l'équipe se détériore
 - on perd la trace des décisions
 - les technologies s'avèrent inadéquates
-- on lui dit qu'il doit tout refondre
-- il pense qu'il vaut mieux tout refondre (?)
-- il ne comprend pas ce que lui raconte la Tech
+- on dit qu'il faut tout refondre
+- le CTO pense qu'il vaut mieux tout refondre (?)
+- le CTO ne comprend pas ce que lui raconte la Tech
 - l'équipe Tech se fait plaisir
 - le système n'a pas d'utilisateurs
 - le système est censé passer à l'échelle mais la fiabilité n'y est pas
