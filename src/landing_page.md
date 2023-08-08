@@ -5,7 +5,10 @@
 Notre domaine d'intervention:
 
 - projets complexes existants qui atteignent une limite de viabilité (quand le projet devient irrespirable)
+- projets en phases de cadrage et de démarrage qui ont besoin d'être structurés et accompagnés
+- projets en panne ou désorienté 
 
+Nous vous aidons à reprendre ces projets avec une approche et des outils
 
 Notre approche :
 

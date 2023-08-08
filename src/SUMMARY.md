@@ -6,3 +6,6 @@
 - [Outils](./outils.md)
 - [Notre Contribution](./notre_contribution.md)
 - [Engagements](./engagements.md)
+- [Notes](./notes.md)
+
+
