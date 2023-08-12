@@ -38,6 +38,7 @@
   - remettant l'apprentissage au centre de l'activité de développement
   - en facilitant le partage de sens entre les différents contextes
   - transmettre des pratiques d'auto-organisation et de communication
+  - mettre en place les conditions de la transparence sur les enjeux projets et personnels
 
 
 
