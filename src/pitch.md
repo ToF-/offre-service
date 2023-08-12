@@ -23,6 +23,21 @@
  ces problèmes viennent en grande partie du désalignement de trois contextes: T/B/M
  on intervient en travaillant sur l'apprentissage et l'amélioration de la cohérence entre ces trois contextes
 
+- dire ce que l'on fait, exprimer (suggérer) ce que l'on voit
+- observations constat
+- les leviers que nous utilisons
+
+- contexte d'intervention
+- grille de lecture
+- leviers d'action
+
+### Synthèse
+1. Nous intervenons sur des projets existants ou naissant sur lesquels se pose la question de la pérennité. Sur ces projets on voit souvent des problèmes de qualité, de compréhension mutuelle, de motivation, de turn-over
+2. Notre compréhension est que dans ces projets trois contextes sont en désalignement: Tech, Métier, Management. 
+3. Nous contribuons à rétablir du sens, de l'apprentissage autant que de la fiabilité, en :
+  - remettant l'apprentissage au centre de l'activité de développement
+  - en facilitant le partage de sens entre les différents contextes
+  - transmettre des pratiques d'auto-organisation et de communication
 
 
 
