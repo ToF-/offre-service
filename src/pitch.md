@@ -75,12 +75,9 @@ Nous intervenons sur des projets naissants ou existants pour lesquels se posent 
 
 Dans ces projets on peut retrouver certaines dynamiques : des problèmes qui consument de l'énergie et d'autres qui en donnent, la difficulté chaque partie prenante à comprendre les obstacles et enjeux auxquels les autres sont confrontés, le manque de fluidité dans les échanges… Ces dynamiques amènent un éloignement de l'équipe de sa préoccupation initiale de rendre service aux utilisateurs, de la démotivation et du turn-over.
 
-Notre approche consiste à
-
+Notre approche consiste à :
 - s'intéresser d'abord au contexte dans lequel les pratiques sont apparues pour permettre d'améliorer ces dernières
-
 - voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle Tech—Métier—Management à produire des traductions cohérentes et créatrices de valeur
-
 - considérer l'apprentissage comme nécessaire à l'amélioration et à la production de sens, et donc replacer au centre de l'activité l'entraînement et la découverte du domaine dans lequel le logiciel évoluera.
 
 
