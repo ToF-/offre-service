@@ -80,5 +80,9 @@ Notre approche consiste à :
 - voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle Tech—Métier—Management à produire des traductions cohérentes et créatrices de valeur
 - considérer l'apprentissage (aussi bien technique que métier) comme nécessaire à l'amélioration et à la production de sens, et donc le replacer au centre de l'activité
 
+### qui sommes nous ?
+
+### nos stickers
+
 
 ### lexique
