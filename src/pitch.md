@@ -73,11 +73,12 @@
 
 Nous intervenons sur des projets naissants ou existants pour lesquels se posent sur la durée les questions de l'énergie, de la motivation et de la satisfaction de l'équipe et des utilisateurs.
 
-Dans ces projets on peut retrouver certaines dynamiques : des problèmes qui consument de l'énergie et d'autres qui en donnent, la difficulté chaque partie prenante à comprendre les obstacles et enjeux auxquels les autres sont confrontés, le manque de fluidité dans les échanges… Ces dynamiques amènent un éloignement de l'équipe de sa préoccupation initiale de rendre service aux utilisateurs, de la démotivation et du turn-over.
+Dans ces projets on peut retrouver certaines dynamiques : des problèmes qui consument de l'énergie et d'autres qui en donnent, le partage ou la segmentation des enjeux et des obstacles, la circulation des informations dans les échanges… Ces dynamiques, quand elles sont peu visibles, peuvent en amener d'autres, telles que l'éloignement de l'équipe de sa préoccupation initiale de rendre service aux utilisateurs, de l'insatisfaction, du turn-over…
 
 Notre approche consiste à :
-- s'intéresser d'abord au contexte dans lequel les pratiques sont apparues pour permettre d'améliorer ces dernières
+- s'intéresser d'abord au contexte dans lequel les pratiques sont apparues et se sont ancrées pour permettre de les améliorer
 - voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle Tech—Métier—Management à produire des traductions cohérentes et créatrices de valeur
-- considérer l'apprentissage comme nécessaire à l'amélioration et à la production de sens, et donc replacer au centre de l'activité l'entraînement et la découverte du domaine dans lequel le logiciel évoluera.
+- considérer l'apprentissage (aussi bien technique que métier) comme nécessaire à l'amélioration et à la production de sens, et donc le replacer au centre de l'activité
 
 
+### lexique
