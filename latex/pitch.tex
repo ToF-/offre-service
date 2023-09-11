@@ -1,19 +1,25 @@
 \documentclass[12pt,svgnames]{article}
 \usepackage{tikz}
+\usepackage{amssymb}
 \usepackage[frenchb]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[margin=2.5cm]{geometry}
 \usepackage[parfill]{parskip}
 \usepackage{xcolor}
-\usepackage{titlesec}
+\definecolor{MSBlue}{rgb}{.204,.353,.541}
+\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
 \usepackage[Lenny]{fncychap}
-\titleformat{\section}
-  {\normalfont\sffamily\Large\bfseries\color{teal}}
-  {\thesection}{1em}{}
+\makeatletter
+\renewcommand{\sfdefault}{phv}
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\fontfamily{\sfdefault}\selectfont\normalfont\Large\sffamily}}
+\makeatother
 \begin{document}
 \thispagestyle{empty}
-{\fontfamily{phv}\selectfont
+{\fontfamily{\sfdefault}\selectfont
     \section*{Ce que nous faisons}
     Nous intervenons sur des projets naissants ou existants pour lesquels se posent sur la durée les questions de l'énergie, de la motivation et de la satisfaction de l'équipe et des utilisateurs.\\
 
@@ -21,32 +27,32 @@
 
     Notre approche consiste à :
     \begin{itemize}
-        \item s'intéresser d'abord au contexte dans lequel les pratiques sont apparues et se sont ancrées pour permettre de les améliorer 
-        \item voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle \emph{Tech - Métier - Management} à produire des traductions cohérentes et créatrices de valeur
-        \item considérer l'apprentissage (aussi bien technique que métier) comme nécessaire à l'amélioration et à la production de sens, et donc le replacer au centre de l'activité
+        \item[$\vartriangleright$] nous intéresser d'abord au contexte dans lequel les pratiques sont apparues et se sont ancrées pour permettre de les améliorer 
+        \item[$\vartriangleright$] voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle \emph{Tech - Métier - Management} à produire des traductions cohérentes et créatrices de valeur
+        \item[$\vartriangleright$] considérer l'apprentissage (aussi bien technique que métier) comme nécessaire à l'amélioration et à la production de sens, et donc le replacer au centre de l'activité
     \end{itemize}
     \section*{Nos Outils (fondamentaux)}
     \begin{itemize}
-        \item
+        \item[$\vartriangleright$]
             programmation orientée objet, fonctionnelle
-        \item
+        \item[$\vartriangleright$]
             Test Driven Design, tests d'intégration, tests exploratoires
-        \item
+        \item[$\vartriangleright$]
             eXtreme Programming, Lean, apprentissage
     \end{itemize}
     \section*{Nos Outils (en mots-clés)}
     \begin{itemize}
-        \item
+        \item[$\vartriangleright$]
             Java, JavaScript, C, C\#, SQL, Python, Haskell, Elm, Lisp
-        \item
+        \item[$\vartriangleright$]
             Junit, Nunit, Jest, Jasmine, Mocha, Sinon, Approval Tests, Characterization Tests, Cucumber, Fitnesse, Exploratory Testing, Domain Testing
-        \item
+        \item[$\vartriangleright$]
             SQL, Oracle, Sqlite, Postgres
-        \item
+        \item[$\vartriangleright$]
             Scrum, Lean, Event Storming, Coding Dojo, Code Kata, Mob Programming, Pair Programming, Event Storming, Wardley Maps, Appreciative Coaching, Open Space Technology, World Café, Liberating Structures, Non Violent Communication, Appreciative Inquiry, Clean Language, Systemic Modelling
-        \item
+        \item[$\vartriangleright$]
             TDD/Legacy, BDD, Code Review, Writing Effective Use Cases, Agile Methodologies, Agile Coaching, Structured Feedback, Quality Management, Technical Leadership, Training From The Back of The Room
-        \item
+        \item[$\vartriangleright$]
             Core Protocols, Logical Thinking Process, Influencer
     \end{itemize}
     \end{document}
