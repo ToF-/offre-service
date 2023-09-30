@@ -1,26 +1,18 @@
 
-# Ce que nous faisons
 
-Nous intervenons sur des projets naissants ou existants pour lesquels se posent sur la durée les questions de l'énergie, de la motivation et de la satisfaction de l'équipe et des utilisateurs.
+ - projet existant
+ - dévelopé au forfait mais ne fonctioe pas (délais, incompréhension, valeur non evidente, déficite de confiance)
+ - changer équipe et passer régie
+ - covid, télétravail, et finalement les mêmes problèmes
+ - dégagé le budget pour deux développeurs sous traitants expérimentés
 
-Dans ces projets on peut retrouver certaines dynamiques : des problèmes qui consument de l'énergie et d'autres qui en donnent, le partage ou la segmentation des enjeux et des obstacles, la circulation des informations dans les échanges… Ces dynamiques, quand elles sont peu visibles, peuvent en amener d'autres, telles que l'éloignement de l'équipe de sa préoccupation initiale de rendre service aux utilisateurs, de l'insatisfaction, du turn-over…
+ - au lieu de postuler, je porpose une équipe de trois personnes
+ - les mains dans le code, maintien de l'existant tout en commençant a remettre en place un travail en équipe
+ - apres avoir récupéré de l'air, commence à acceuillir des dev internes et a les faire monter sur la base de code et les pratiques
+ - accompagner la 
 
-Notre approche consiste à :
-- s'intéresser d'abord au contexte dans lequel les pratiques sont apparues et se sont ancrées pour permettre de les améliorer
-- voir le développement logiciel moins comme une activité de fabrication que comme une activité de traduction d'idées, et aider le triangle Tech—Métier—Management à produire des traductions cohérentes et créatrices de valeur
-- considérer l'apprentissage (aussi bien technique que métier) comme nécessaire à l'amélioration et à la production de sens, et donc le replacer au centre de l'activité
 
-# Nos Outils (fondamentaux)
+ Le projet existe depuis plusieurs années. Les développements au forfait se sont essouflés (délais, peut de valeur produite, déficite de confiance, ...). Malgré un changement déquipe technique et un passage en régie, la situation ne s'améliore pas. Je propose au client un dispositif basé sur une équipe.
+ A nous trois, nous commençons par stabiliser le logiciel, résoudre les premiers problèmes de fond qui rendent le code difficile à faire vivre, puis à attaquer le contexte qui y a mené. Petit à petit nous mettons en place un triptyque où le responsable produit est garant de la vision et de la stratégie, les développeurs proposent, maquettent et programment des solutions, et les utilisateurs guident les évolutions.
+ En parallèle, nous accompagnons des developpeurs internes salariés du client à la fois sur la technique et la méthode en vue d'internaliser complètement le logiciel.
 
-- programmation orientée objet, fonctionnelle
-- Test Driven Design, tests d'intégration, tests exploratoires
-- eXtreme Programming, Lean, apprentissage
-
-# Nos Outils (en mots-clés)
-
-- Java, JavaScript, C, C#, SQL, Python, Haskell, Elm, Lisp
-- Junit, Nunit, Jest, Jasmine, Mocha, Sinon, Approval Tests, Characterization Tests, Cucumber, Fitnesse, Exploratory Testing, Domain Testing
-- SQL, Oracle, Sqlite, Postgres
-- Scrum, Lean, Event Storming, Coding Dojo, Code Kata, Mob Programming, Pair Programming, Event Storming, Wardley Maps, Appreciative Coaching, Open Space Technology, World Café, Liberating Structures, Non Violent Communication, Appreciative Inquiry, Clean Language, Systemic Modelling
-- TDD/Legacy, BDD, Code Review, Writing Effective Use Cases, Agile Methodologies, Agile Coaching, Structured Feedback, Quality Management, Technical Leadership, Training From The Back of The Room
-- Core Protocols, Logical Thinking Process, Influencer
